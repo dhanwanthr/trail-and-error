@@ -5,3 +5,4 @@ if(1<2){
 else{
     console.log("ni")
 }
+console.log("dot")
